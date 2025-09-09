@@ -1,2 +1,2 @@
 # python-string-assignment
-beginner
+
